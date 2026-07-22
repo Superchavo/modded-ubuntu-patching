@@ -4,6 +4,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 <img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge">
+<img scr="https://img.shields.io/badge/Fixed_By-Superchavo-green?style=for-the-badge&logo=Github&logoColor=2A2B2A&labelColor=blue">
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Written%20In-Bash-darkgreen?style=flat-square">
@@ -12,7 +13,7 @@
 <img src="https://img.shields.io/github/issues/modded-ubuntu/modded-ubuntu?color=red&style=flat-square">
 <img src="https://img.shields.io/github/forks/modded-ubuntu/modded-ubuntu?color=teal&style=flat-square">
 </p>
-<p align="center"><b>Run Ubuntu GUI on your termux with much features.</b></p>
+<p align="center"><b>Run Ubuntu 26.04 With GUI on your termux with much features.</b></p>
 
 ### Features
 
@@ -27,7 +28,7 @@
 - Comes with some cool themes.
 
 ### Installation
-- Firstly install [Termux](https://termux.com) apk from [HERE](https://f-droid.org/repo/com.termux_118.apk)
+- Firstly install [Termux](https://termux.com) apk from [HERE](https://github.com/termux/termux-app/releases/download/v0.119.0-beta.3/termux-app_v0.119.0-beta.3+apt-android-7-github-debug_universal.apk) (this will install the v0.119.0-beta.3 release for you)
 - Secondly Clone the Repository & Run the setup File
 
   - `yes | pkg up`
